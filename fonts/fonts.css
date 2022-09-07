@@ -1,0 +1,76 @@
+@font-face{
+  font-family: "la_black";
+src: url(../fonts/Lato/Lato-Black.ttf)
+}
+@font-face{
+    font-family: "la_bold";
+    src: url(../fonts/Lato/Lato-Bold.ttf)
+}
+@font-face{
+    font-family: "la_italic";
+    src: url(../fonts/Lato/Lato-Italic.ttf)
+}
+@font-face{
+    font-family: "la_light";
+    src: url(../fonts/Lato/Lato-Light.ttf)
+}
+@font-face{
+    font-family: "la_regular";
+    src: url(../fonts/Lato/Lato-Regular.ttf)
+}
+@font-face{
+    font-family: "la_thin";
+    src: url(../fonts/Lato/Lato-Thin.ttf)
+}
+@font-face{
+    font-family: "mont_black";
+    src: url(../fonts/static/Montserrat-Black.ttf)
+}
+@font-face{
+    font-family: "mont_bold";
+    src: url(../fonts/static/Montserrat-Bold.ttf)
+}
+@font-face{
+    font-family: "mont_italic";
+    src: url(../fonts/static/Montserrat-Italic.ttf)
+}
+@font-face{
+    font-family: "mont_light";
+    src: url(../fonts/static/Montserrat-Light.ttf)
+}
+@font-face{
+    font-family: "mont_medium";
+    src: url(../fonts/static/Montserrat-Medium.ttf)
+}
+@font-face{
+    font-family: "mont_regular";
+    src: url(../fonts/static/Montserrat-Regular.ttf)
+}
+@font-face{
+    font-family: "mont_thin";
+    src: url(../fonts/static/Montserrat-Thin.ttf)
+}
+@font-face{
+    font-family: "open_bold";
+    src: url(../fonts/OpenSans/OpenSans-Bold.ttf)
+}
+@font-face{
+font-family: "open_italic";
+src: url(../fonts/OpenSans/OpenSans-Italic.ttf)
+}
+@font-face{
+    font-family: "open_light";
+    src: url(../fonts/OpenSans/OpenSans-Light.ttf)
+}
+@font-face{
+    font-family: "open_medium";
+    src: url(../fonts/OpenSans/OpenSans-Medium.ttf)
+}
+@font-face{
+    font-family: "open_regular";
+    src: url(../fonts/OpenSans/OpenSans-Regular.ttf)
+}
+@font-face{
+    font-family: "bebas_regular";
+    src: url(./BebasNeue-Regular.ttf)
+}
